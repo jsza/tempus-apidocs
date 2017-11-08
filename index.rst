@@ -3,20 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+=========================================
 Welcome to tempus-webapi's documentation!
 =========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Public API
-==========
-
-.. toctree::
     :maxdepth: 2
+    :caption: Documentation
 
-    players
-    player
+    api
+    resources

@@ -1,71 +1,100 @@
 {
     "class_rank_info": {
         "3": {
-            "points": 9421.0,
-            "rank": 239,
-            "title": "Esquire",
+            "points": 202285.5,
+            "rank": 1,
+            "title": "Emperor",
             "total_ranked": 40324
         },
         "4": {
-            "points": 2248.0,
-            "rank": 484,
-            "title": "Esquire",
+            "points": 52717.5,
+            "rank": 6,
+            "title": "Prince",
             "total_ranked": 28427
         }
     },
     "country_class_rank_info": {
         "3": {
-            "rank": 64,
-            "total_ranked": 11703
+            "rank": 1,
+            "total_ranked": 276
         },
         "4": {
-            "rank": 120,
-            "total_ranked": 6391
+            "rank": 1,
+            "total_ranked": 243
         }
     },
     "country_rank_info": {
-        "rank": 85,
-        "total_ranked": 14437
+        "rank": 1,
+        "total_ranked": 434
     },
     "player_info": {
-        "country": "United States",
-        "country_code": "US",
-        "first_seen": 1397799210.947,
-        "id": 289,
-        "last_seen": 1509696909.5311,
-        "name": "john | jump.tf",
-        "steamid": "STEAM_0:1:32462588"
+        "country": "Ukraine",
+        "country_code": "UA",
+        "first_seen": 1416160045.73942,
+        "id": 39902,
+        "last_seen": 1510146209.76025,
+        "name": "fox",
+        "steamid": "STEAM_0:0:43167835"
     },
     "pr_stats": {
         "bonus": {
-            "count": 107,
-            "points": 854.0
+            "count": 927,
+            "points": 14437.0
         },
         "course": {
-            "count": 187,
-            "points": 2675.0
+            "count": 500,
+            "points": 11680.0
         },
         "map": {
-            "count": 243,
-            "points": 8140.0
+            "count": 783,
+            "points": 45410.0
         },
         "trick": {
-            "count": 2,
+            "count": 122,
             "points": 0.0
         }
     },
     "rank_info": {
-        "points": 11669.0,
-        "rank": 327,
+        "points": 255003.0,
+        "rank": 1,
         "total_ranked": 54212
     },
     "top_stats": {
+        "bonus": {
+            "count": 271,
+            "points": 5451.0
+        },
+        "course": {
+            "count": 121,
+            "points": 8740.0
+        },
+        "map": {
+            "count": 205,
+            "points": 26355.0
+        },
         "trick": {
-            "count": 2,
+            "count": 78,
             "points": 0.0
         }
     },
-    "wr_stats": {},
+    "wr_stats": {
+        "bonus": {
+            "count": 277,
+            "points": 15730.0
+        },
+        "course": {
+            "count": 167,
+            "points": 38350.0
+        },
+        "map": {
+            "count": 247,
+            "points": 88850.0
+        },
+        "trick": {
+            "count": 23,
+            "points": 0.0
+        }
+    },
     "zone_count": {
         "bonus": {
             "count": 481

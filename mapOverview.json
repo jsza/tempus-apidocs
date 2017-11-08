@@ -1,0 +1,154 @@
+{
+    "authors": [
+        {
+            "id": 53,
+            "name": "Bevo"
+        }
+    ],
+    "demoman_runs": [
+        {
+            "duration": 54.3825755119324,
+            "id": 5164,
+            "name": "Zike1017 \u30c4",
+            "steamid": "STEAM_0:1:45050273"
+        },
+        {
+            "duration": 58.029958486557,
+            "id": 19781,
+            "name": "Peace",
+            "steamid": "STEAM_0:0:47637212"
+        },
+        {
+            "duration": 60.4084270000458,
+            "id": 10736,
+            "name": "vice",
+            "steamid": "STEAM_0:0:115234"
+        },
+        {
+            "duration": 60.4364259243011,
+            "id": 151834,
+            "name": "mesatech",
+            "steamid": "STEAM_0:0:75790122"
+        },
+        {
+            "duration": 60.7301125526428,
+            "id": 8837,
+            "name": "667m",
+            "steamid": "STEAM_0:0:41763746"
+        },
+        {
+            "duration": 60.7797222137451,
+            "id": 172,
+            "name": "cody",
+            "steamid": "STEAM_0:0:59111250"
+        },
+        {
+            "duration": 61.1848411560059,
+            "id": 99892,
+            "name": "MEGANWOP",
+            "steamid": "STEAM_0:0:130870208"
+        },
+        {
+            "duration": 61.4564666748047,
+            "id": 2151,
+            "name": "billydapackflippa07",
+            "steamid": "STEAM_0:0:40358892"
+        },
+        {
+            "duration": 63.1777248382568,
+            "id": 92336,
+            "name": "foster",
+            "steamid": "STEAM_0:1:119819005"
+        },
+        {
+            "duration": 63.6479103565216,
+            "id": 26740,
+            "name": "\ubd88\uc7a5\ub09c",
+            "steamid": "STEAM_0:0:96175730"
+        }
+    ],
+    "map_info": {
+        "id": 1,
+        "name": "jump_beef"
+    },
+    "soldier_runs": [
+        {
+            "duration": 61.6796624660492,
+            "id": 76057,
+            "name": "pumpkidder",
+            "steamid": "STEAM_0:1:20342129"
+        },
+        {
+            "duration": 66.2999665737152,
+            "id": 53,
+            "name": "gancho",
+            "steamid": "STEAM_0:1:45275106"
+        },
+        {
+            "duration": 68.0281262397766,
+            "id": 39902,
+            "name": "fox",
+            "steamid": "STEAM_0:0:43167835"
+        },
+        {
+            "duration": 68.9241061210632,
+            "id": 10736,
+            "name": "vice",
+            "steamid": "STEAM_0:0:115234"
+        },
+        {
+            "duration": 69.9597733020782,
+            "id": 3677,
+            "name": "Snow -tt",
+            "steamid": "STEAM_0:0:53340664"
+        },
+        {
+            "duration": 70.6649618148804,
+            "id": 7961,
+            "name": "haggis",
+            "steamid": "STEAM_0:0:30881694"
+        },
+        {
+            "duration": 71.9397435188293,
+            "id": 281915,
+            "name": "newjuls",
+            "steamid": "STEAM_0:0:217876305"
+        },
+        {
+            "duration": 71.9403460025787,
+            "id": 182,
+            "name": "guyyst",
+            "steamid": "STEAM_0:0:40538767"
+        },
+        {
+            "duration": 73.6050107479095,
+            "id": 2758,
+            "name": "massive.lejend",
+            "steamid": "STEAM_0:1:54966075"
+        },
+        {
+            "duration": 74.9537150859833,
+            "id": 8364,
+            "name": "\u20b5\u2c60\u00d8\u20a9\u20a6 (goofy)",
+            "steamid": "STEAM_0:1:62183455"
+        }
+    ],
+    "tier_info": {
+        "demoman": 2,
+        "soldier": 2
+    },
+    "videos": {
+        "demoman": null,
+        "soldier": "uGZygTWjoB8"
+    },
+    "zone_counts": {
+        "bonus": 1,
+        "bonus_end": 1,
+        "course": 3,
+        "course_end": 2,
+        "map": 1,
+        "map_end": 1,
+        "misc": 8,
+        "trick": 1
+    }
+}
