@@ -1,0 +1,113 @@
+======
+Player
+======
+
+.. http:get: /stats
+
+    Retrieve a `Player`_'s stats.
+
+    .. sourcecode:: js
+        {
+            "class_rank_info": {
+                "3": {
+                    "points": 9421.0,
+                    "rank": 239,
+                    "title": "Esquire",
+                    "total_ranked": 40324
+                },
+                "4": {
+                    "points": 2248.0,
+                    "rank": 484,
+                    "title": "Esquire",
+                    "total_ranked": 28427
+                }
+            },
+            "country_class_rank_info": {
+                "3": {
+                    "rank": 64,
+                    "total_ranked": 11703
+                },
+                "4": {
+                    "rank": 120,
+                    "total_ranked": 6391
+                }
+            },
+            "country_rank_info": {
+                "rank": 85,
+                "total_ranked": 14437
+            },
+            "player_info": {
+                "country": "United States",
+                "country_code": "US",
+                "first_seen": 1397799210.947,
+                "id": 289,
+                "last_seen": 1509696909.5311,
+                "name": "john | jump.tf",
+                "steamid": "STEAM_0:1:32462588"
+            },
+            "pr_stats": {
+                "bonus": {
+                    "count": 107,
+                    "points": 854.0
+                },
+                "course": {
+                    "count": 187,
+                    "points": 2675.0
+                },
+                "map": {
+                    "count": 243,
+                    "points": 8140.0
+                },
+                "trick": {
+                    "count": 2,
+                    "points": 0.0
+                }
+            },
+            "rank_info": {
+                "points": 11669.0,
+                "rank": 327,
+                "total_ranked": 54212
+            },
+            "top_stats": {
+                "trick": {
+                    "count": 2,
+                    "points": 0.0
+                }
+            },
+            "wr_stats": {},
+            "zone_count": {
+                "bonus": {
+                    "count": 481
+                },
+                "bonus_end": {
+                    "count": 481
+                },
+                "checkpoint": {
+                    "count": 886
+                },
+                "course": {
+                    "count": 260
+                },
+                "course_end": {
+                    "count": 163
+                },
+                "linear": {
+                    "count": 302
+                },
+                "map": {
+                    "count": 399
+                },
+                "map_end": {
+                    "count": 398
+                },
+                "misc": {
+                    "count": 311
+                },
+                "special": {
+                    "count": 114
+                },
+                "trick": {
+                    "count": 104
+                }
+            }
+        }
