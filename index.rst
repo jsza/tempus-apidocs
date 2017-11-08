@@ -12,9 +12,11 @@ Welcome to tempus-webapi's documentation!
 
 
 
-Indices and tables
-==================
+Public API
+==========
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :maxdepth: 2
+
+    players
+    player
