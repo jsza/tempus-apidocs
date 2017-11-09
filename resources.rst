@@ -154,25 +154,7 @@ Player
 
 .. http:get:: /info
 
-    Retrieve a player's info.
-
-    .. sourcecode:: json
-
-        {
-            "id": 39902,
-            "name": "fox",
-            "steamid": "STEAM_0:0:43167835",
-            "first_seen": 1416160045.73942,
-            "last_seen": 1510146209.76025,
-            "country": "Ukraine"
-        }
-
-    :>json integer id: Player ID.
-    :>json string name: In-game name.
-    :>json string steamid: Steam ID.
-    :>json float first_seen: Unix timestamp of first connect.
-    :>json float last_seen: Unix timestamp of most recent connect.
-    :>json string country: Country name.
+    Retrieve a player's info. See `Player Info`_.
 
 .. http:get:: /rank
 
@@ -204,13 +186,13 @@ Player
                 "4": {
                     "points": 52717.5,
                     "rank": 6,
-                    "title": "Prince",
-                    "total_ranked": 28427
+                    "total_ranked": 28427,
+                    "title": "Prince"
                 }
             }
         }
 
-    :>json object player_info: Player's info. See **GET /info** above.
+    :>json object player_info: Player's info. See `Player Info`_.
 
 
 .. http:get:: /stats
@@ -238,8 +220,8 @@ Player
                 "3": {
                     "points": 202285.5,
                     "rank": 1,
-                    "title": "Emperor",
-                    "total_ranked": 40324
+                    "total_ranked": 40324,
+                    "title": "Emperor"
                 },
                 "4": {
                     "points": 52717.5,
@@ -318,6 +300,32 @@ Player
             }
         }
 
-    :>json object player_info: Player's info. See **GET /info** above.
+    :>json object player_info: Player's info. See `Player Info`_.
     :>json object zone_count: Total number of zones in the database, grouped by
                               type.
+
+Objects
+-------
+
+These are shared between certain responses and are intended to be consistent.
+
+Player Info
+~~~~~~~~~~~
+
+    .. sourcecode:: json
+
+        {
+            "id": 39902,
+            "name": "fox",
+            "steamid": "STEAM_0:0:43167835",
+            "first_seen": 1416160045.73942,
+            "last_seen": 1510146209.76025,
+            "country": "Ukraine"
+        }
+
+    * **id** (*integer*) : Player ID.
+    * **name** (*string*): In-game name.
+    * **steamid** (*string*): Steam ID.
+    * **first_seen** (*float*): Unix timestamp of first connect.
+    * **last_seen** (*float*): Unix timestamp of most recent connect.
+    * **country** (*string*): Country name.
