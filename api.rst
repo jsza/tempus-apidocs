@@ -12,7 +12,7 @@ Error handling
 ==============
 
 The API will return a JSON response for certain errors. For example, this  GET
-request to https://tempus.xyz/api/maps/doesnotexist/fullOverview:
+request to https://tempus.xyz/api/maps/name/doesnotexist/fullOverview:
 
 .. sourcecode:: http
 
