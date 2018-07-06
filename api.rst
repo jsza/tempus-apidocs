@@ -5,8 +5,9 @@ Overview
 Making Requests
 ===============
 
-All requests must set ``Accept: application/json``. Otherwise, the website
-HTML will be served.
+It used to be that requests needed to set ``Accept: application/json``. Now,
+it may be omitted for convenience. Note that the API does not support XML at
+this time.
 
 Error handling
 ==============
